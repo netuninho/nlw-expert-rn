@@ -8,7 +8,7 @@ module.exports = {
     extend: {
       fontFamily: {
         heading: "Inter_600SemiBold",
-        subtitle: "nter_500Medium",
+        subtitle: "Inter_500Medium",
         body: "Inter_400Regular",
         bold: "Inter_700Bold",
       }
